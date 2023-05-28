@@ -4,6 +4,8 @@
 
 ✉ | Email: acsa.silveiras@gmail.com
 
+🎶 | Cada nota musical é um bit de sinal vital em mim 
+
 <div align="left">
   <a href="https://github.com/acsasilveira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsasilveira&layout=compact&langs_count=7&theme=rose"/>
