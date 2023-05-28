@@ -4,7 +4,7 @@
 
 ✉ | Email: acsa.silveiras@gmail.com
 
-🎶 | Cada nota musical é um bit de sinal vital em mim 
+🎶 | "Cada nota musical é um bit de sinal vital em mim"
 
 <div align="left">
   <a href="https://github.com/acsasilveira">
