@@ -1,6 +1,6 @@
 ❤ | Acsa Silveira - 17 anos
 
-👩🏻‍🎓 | 3º Informática
+👩🏻‍🎓 | 3º ano do Curso Técnico em Informática
 
 ✉ | Email: acsa.silveiras@gmail.com
 
