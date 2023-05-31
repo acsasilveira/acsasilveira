@@ -1,10 +1,12 @@
 ❤ | Acsa Silveira - 17 anos
 
-👩🏻‍🎓 | 3º ano do Curso Técnico em Informática
+👩🏻‍🎓 | 3º ano do Curso Técnico em Informática (CEFET-MG)
+
+🎶 | Apaixonada por música
+
+💻 | Futura Web Developer
 
 ✉ | Email: acsa.silveiras@gmail.com
-
-🎶 | "Cada nota musical é um bit de sinal vital em mim"
 
 <div align="left">
   <a href="https://github.com/acsasilveira">
