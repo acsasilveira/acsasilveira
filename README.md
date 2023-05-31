@@ -2,9 +2,9 @@
 
 👩🏻‍🎓 | 3º ano do Curso Técnico em Informática (CEFET-MG)
 
-🎶 | Apaixonada por música
-
 💻 | Futura Web Developer
+
+🎶 | Apaixonada por música
 
 ✉ | Email: acsa.silveiras@gmail.com
 
