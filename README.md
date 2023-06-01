@@ -21,5 +21,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
    <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />
    <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" />
+   <a href="https://join.skype.com/invite/xqwYc65uiQMD">
+     <img align="center" alt="Skype" height="30" width="30" src="https://o.remove.bg/downloads/0a764c65-2c17-43a4-9bbb-a1ed4a90c81d/image-removebg-preview.png" />
+   </a>
 </div>
-
