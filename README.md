@@ -1,19 +1,32 @@
-❤ | Acsa Silveira - 17 anos
+<h2> ❤ Acsa Silveira</h2>
+
+🧁 |  17 anos
 
 👩🏻‍🎓 | 3º ano do Curso Técnico em Informática (CEFET-MG)
 
-💻 | Futura Web Developer
+👩‍💻 | Trabalhando no Projeto: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
 
-🎶 | Apaixonada por música
+📱 | Desenvolvendo o aplicativo <a href="https://github.com/acsasilveira/healthy_mind">"Healthy Mind"</a>
 
 ✉ | Email: acsa.silveiras@gmail.com
+
+# 
+
+<h3> 👩🏻‍🎓 OBJETIVOS PROFISSIONAIS:</h3>
+
+📲 | Disponibilizar o app Healthy Mind online (Play Store)
+
+😎 | Lançar o projeto "Estragou, e agora?" para ajudar a comunidade
+
+💻 | Cursar <b>Análise e Desenvolvimento de Sistemas</b> ou <b>Sistemas de Informação</b>
+
+#
 
 <div align="left">
   <a href="https://github.com/acsasilveira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acsasilveira&layout=compact&langs_count=7&theme=rose"/>
 </div>
 
-#
 
 <div style="display: inline_block"><br>        
   <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" />
