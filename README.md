@@ -8,8 +8,6 @@
 
 📱 | Desenvolvendo o aplicativo <a href="https://github.com/acsasilveira/healthy_mind">"Healthy Mind"</a>
 
-✉ | Email: acsa.silveiras@gmail.com
-
 # 
 
 <h3> 👩🏻‍🎓 OBJETIVOS PROFISSIONAIS:</h3>
@@ -19,6 +17,13 @@
 😎 | Lançar o projeto "Estragou, e agora?" para ajudar a comunidade
 
 💻 | Cursar <b>Análise e Desenvolvimento de Sistemas</b> ou <b>Sistemas de Informação</b>
+
+#
+<h3> ☎ CONTATOS:</h3>
+
+✉  | acsa.silveiras@gmail.com
+
+💬 | <a href="https://join.skype.com/invite/xqwYc65uiQMD">acsa_silveira</a> (Skype)
 
 #
 
