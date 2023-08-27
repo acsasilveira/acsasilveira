@@ -12,7 +12,7 @@
 
 # 
 
-<div align="center">
+<div align="left">
   <h3> 👩🏻‍🎓 OBJETIVOS PROFISSIONAIS:</h3>
 </div>
 
@@ -24,7 +24,7 @@
 
 #
 
-<div align="center">
+<div align="left">
   <h3> ☎ CONTATOS:</h3>
 </div>
 
