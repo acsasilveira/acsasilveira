@@ -8,7 +8,7 @@
 
 👩‍💻 | Trabalhando no Projeto: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
 
-📱 | Desenvolvendo o aplicativo <a href="https://github.com/acsasilveira/healthy_mind">"Healthy Mind"</a>
+📱 | Desenvolvendo o aplicativo <a href="https://github.com/stars/acsasilveira/lists/mobile">"Healthy Mind"</a>
 
 # 
 
