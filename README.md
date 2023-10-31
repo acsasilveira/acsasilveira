@@ -2,6 +2,9 @@
   <h2> ❤ Acsa Silveira </h2>
 </div>
 
+#
+<h2> Sobre mim </h2>
+
 🧁 |  17 anos
 
 👩🏻‍🎓 | 3º ano do Curso Técnico em Informática (CEFET-MG)
@@ -26,6 +29,39 @@
 
 <div align="left">
   <h3> ☎ CONTATOS:</h3>
+</div>
+
+✉  | acsa.silveiras@gmail.com
+
+💬 | <a href="https://join.skype.com/invite/xqwYc65uiQMD">acsa_silveira</a> (Skype)
+
+#
+<h2> About me </h2>
+
+🧁 |  17 years old
+
+👩🏻‍🎓 | 3rd year of the IT Technical Course (CEFET-MG)
+
+👩‍💻 | Working at Project: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
+
+📱 | Developing the mobile app: <a href="https://github.com/stars/acsasilveira/lists/mobile">"Healthy Mind"</a>
+
+# 
+
+<div align="left">
+  <h3> 👩🏻‍🎓 PROFESSIONAL OBJECTIVES:</h3>
+</div>
+
+📲 | Make the Healthy Mind app available online (Play Store)
+
+😎 | Launch the project "Estragou, e agora?" to help the community
+
+💻 | Study <b>Systems Analysis and Development</b> or <b>Information Systems</b>
+
+#
+
+<div align="left">
+  <h3> ☎ CONTACTS:</h3>
 </div>
 
 ✉  | acsa.silveiras@gmail.com
