@@ -5,11 +5,13 @@
 #
 <h2> Sobre mim </h2>
 
-🧁 |  17 anos
+🧁 |  18 anos
 
-👩🏻‍🎓 | 3º ano do Curso Técnico em Informática (CEFET-MG)
+👩🏻‍🎓 | Graduada no Curso Técnico em Informática (CEFET-MG)
 
-👩‍💻 | Trabalhando no Projeto: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
+👩‍💻 | Particupou da Iniciativa: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
+
+🍽️ | Desenvolvendo um sistema para o Restaurante Universitário do CEFET-MG Campus Varginha -> https://rucefetmg.flutterflow.app
 
 📱 | Desenvolvendo o aplicativo <a href="https://github.com/stars/acsasilveira/lists/mobile">"Healthy Mind"</a>
 
@@ -21,9 +23,9 @@
 
 📲 | Disponibilizar o app Healthy Mind online (Play Store)
 
-😎 | Lançar o projeto "Estragou, e agora?" para ajudar a comunidade
+😎 | Lançar o sistema para o RU até fevereiro
 
-💻 | Cursar <b>Análise e Desenvolvimento de Sistemas</b> ou <b>Sistemas de Informação</b>
+💻 | Cursar <b>Sistemas de Informação</b> no CEFET-MG Campus Varginha 
 
 #
 
@@ -36,11 +38,13 @@
 #
 <h2> About me </h2>
 
-🧁 |  17 years old
+🧁 |  18 years old
 
-👩🏻‍🎓 | 3rd year of the IT Technical Course (CEFET-MG)
+👩🏻‍🎓 | Graduated of the IT Technical Course (CEFET-MG)
 
-👩‍💻 | Working at Project: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
+👩‍💻 | Participate at the Project: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
+
+🍽️ | Developing a system to the University Restaurant of CEFET-MG Campus Varginha -> https://rucefetmg.flutterflow.app
 
 📱 | Developing the mobile app: <a href="https://github.com/stars/acsasilveira/lists/mobile">"Healthy Mind"</a>
 
@@ -52,9 +56,9 @@
 
 📲 | Make the Healthy Mind app available online (Play Store)
 
-😎 | Launch the project "Estragou, e agora?" to help the community
+😎 | Launch the UR system until february
 
-💻 | Study <b>Systems Analysis and Development</b> or <b>Information Systems</b>
+💻 | Study <b>Information Systems</b> in CEFET-MG Campus Varginha 
 
 #
 
