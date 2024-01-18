@@ -9,7 +9,7 @@
 
 👩🏻‍🎓 | Graduada no Curso Técnico em Informática (CEFET-MG)
 
-👩‍💻 | Participou da Iniciativa: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
+👩‍💻 | Participei da Iniciativa: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
 
 🍽️ | Desenvolvendo um sistema para o Restaurante Universitário do CEFET-MG Campus Varginha -> https://rucefetmg.flutterflow.app
 
