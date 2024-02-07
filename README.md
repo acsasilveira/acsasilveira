@@ -13,7 +13,7 @@
 
 👩‍💻 | Participei da Iniciativa: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
 
-🍽️ | Desenvolvendo um sistema para diminuir desperdício de alimentos do Restaurante Estudantil do CEFET-MG Campus Varginha -> <a href= "https://rucefetmg.flutterflow.app/">https://rucefetmg.flutterflow.app</a>
+🍽️ | Desenvolvi um sistema para diminuir desperdício de alimentos do Restaurante Estudantil do CEFET-MG Campus Varginha como parte de um Projeto de Iniciação Científica-> <a href= "https://rucefetmg.flutterflow.app/">https://rucefetmg.flutterflow.app</a>
 
 📱 | Desenvolvendo o aplicativo <a href="https://github.com/stars/acsasilveira/lists/mobile">"Healthy Mind"</a>
 
@@ -21,12 +21,16 @@
 
 <div align="left">
   <h3> 👩🏻‍🎓 OBJETIVOS PROFISSIONAIS:</h3>
+  <h5> O emoji de medalha significa feito! </h5>
 </div>
 
 📲 | Disponibilizar o app Healthy Mind online (Play Store)
 
-😎 | Lançar o sistema para o RU até fevereiro
+😎 | Lançar o sistema para o RU até fevereiro - 🏅
 
+💻 | Entrar no curso de Sistemas de Informação no CEFETMG - 🥉
+
+👷 | Finish my IT Technician Course Completion Work with the completion of the System "Estragou, e agora?" - 🏅
 
 #
 
@@ -47,7 +51,7 @@
 
 👩‍💻 | Participated at the Project: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
 
-🍽️ | Developing a system to reduce food waste at the CEFET-MG Campus Varginha Student Restaurant -> <a href= "https://rucefetmg.flutterflow.app/">https://rucefetmg.flutterflow.app</a>
+🍽️ | Developed a system to reduce food waste at the CEFET-MG Campus Varginha Student Restaurant as part of a Scientific Initiation Project -> <a href= "https://rucefetmg.flutterflow.app/">https://rucefetmg.flutterflow.app</a>
 
 📱 | Developing the mobile app: <a href="https://github.com/stars/acsasilveira/lists/mobile">"Healthy Mind"</a>
 
@@ -55,12 +59,16 @@
 
 <div align="left">
   <h3> 👩🏻‍🎓 PROFESSIONAL OBJECTIVES:</h3>
+  <h5> The medal emoji means done! </h5>
 </div>
 
 📲 | Make the Healthy Mind app available online (Play Store)
 
-😎 | Launch the UR system until february
+😎 | Launch the UR system until february - 🏅
 
+💻 | Enter CEFETMG to graduate the Information Systems course - 🥉
+
+👷 | Finish my IT Technician Course Completion Work with the completion of the System "Estragou, e agora?" - 🏅
 #
 
 <div align="left">
