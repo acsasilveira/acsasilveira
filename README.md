@@ -9,9 +9,11 @@
 
 👩🏻‍🎓 | Graduada no Curso Técnico em Informática (CEFET-MG)
 
+📚 | Graduanda no Curso de Barachel em Sistemas de Informação (CEFET-MG)
+
 👩‍💻 | Participei da Iniciativa: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
 
-🍽️ | Desenvolvendo um sistema para o Restaurante Universitário do CEFET-MG Campus Varginha -> https://rucefetmg.flutterflow.app
+🍽️ | Desenvolvendo um sistema para diminuir desperdício de alimentos do Restaurante Estudantil do CEFET-MG Campus Varginha -> <a href= "https://rucefetmg.flutterflow.app/">https://rucefetmg.flutterflow.app</a>
 
 📱 | Desenvolvendo o aplicativo <a href="https://github.com/stars/acsasilveira/lists/mobile">"Healthy Mind"</a>
 
@@ -25,7 +27,6 @@
 
 😎 | Lançar o sistema para o RU até fevereiro
 
-💻 | Cursar <b>Sistemas de Informação</b> no CEFET-MG Campus Varginha 
 
 #
 
@@ -42,9 +43,11 @@
 
 👩🏻‍🎓 | Graduated of the IT Technical Course (CEFET-MG)
 
+📚 | Graduating in the Barachel Course in Information Systems (CEFET-MG)
+
 👩‍💻 | Participated at the Project: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
 
-🍽️ | Developing a system to the University Restaurant of CEFET-MG Campus Varginha -> https://rucefetmg.flutterflow.app
+🍽️ | Developing a system to reduce food waste at the CEFET-MG Campus Varginha Student Restaurant -> <a href= "https://rucefetmg.flutterflow.app/">https://rucefetmg.flutterflow.app</a>
 
 📱 | Developing the mobile app: <a href="https://github.com/stars/acsasilveira/lists/mobile">"Healthy Mind"</a>
 
@@ -57,8 +60,6 @@
 📲 | Make the Healthy Mind app available online (Play Store)
 
 😎 | Launch the UR system until february
-
-💻 | Study <b>Information Systems</b> in CEFET-MG Campus Varginha 
 
 #
 
