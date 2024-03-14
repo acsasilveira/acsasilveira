@@ -13,7 +13,7 @@
 
 👩‍💻 | Participei da Iniciativa: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
 
-🍽️ | Desenvolvi um sistema para diminuir desperdício de alimentos do Restaurante Estudantil do CEFET-MG Campus Varginha como parte de um Projeto de Iniciação Científica-> <a href= "https://rucefetmg.flutterflow.app/">https://rucefetmg.flutterflow.app</a>
+🍽️ | Desenvolvi um sistema para diminuir desperdício de alimentos do Restaurante Estudantil do CEFET-MG Campus Varginha como parte de um Projeto de Iniciação Científica-> <a href= "https://rscefetmg.flutterflow.app/">https://rscefetmg.flutterflow.app</a>
 
 📱 | Desenvolvendo o aplicativo <a href="https://github.com/stars/acsasilveira/lists/mobile">"Healthy Mind"</a>
 
