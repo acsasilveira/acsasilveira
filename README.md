@@ -30,7 +30,7 @@
 
 💻 | Entrar no curso de Sistemas de Informação no CEFETMG - 🥉
 
-👷 | Finish my IT Technician Course Completion Work with the completion of the System "Estragou, e agora?" - 🏅
+👷 | Terminar meu TCC do curso técnico em informática com o sistema "Estragou, e agora?" - 🏅
 
 #
 
