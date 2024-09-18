@@ -17,6 +17,8 @@
 
 📱 | Desenvolvendo o aplicativo <a href="https://github.com/stars/acsasilveira/lists/mobile">"Healthy Mind"</a>
 
+🖥 | Suporte na área de TI para a empresa de Consultoria Jurídica -> <a href="https://cardosofreire.adv.br/"> Cardoso Freire </a>
+
 # 
 
 <div align="left">
@@ -54,6 +56,8 @@
 🍽️ | Developed a system to reduce food waste at the CEFET-MG Campus Varginha Student Restaurant as part of a Scientific Initiation Project -> <a href= "https://rucefetmg.flutterflow.app/">https://rucefetmg.flutterflow.app</a>
 
 📱 | Developing the mobile app: <a href="https://github.com/stars/acsasilveira/lists/mobile">"Healthy Mind"</a>
+
+🖥 | WOrking on IT Support Area on -> <a href="https://cardosofreire.adv.br/"> Cardoso Freire Consultoria Jurídica </a>
 
 # 
 
