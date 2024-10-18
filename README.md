@@ -4,10 +4,10 @@
 
 <h3>IDIOMA DO CURRÍCULO - CURRICULUM LANGUAGE </h3>
 <div style="display: inline_block"><br>
-  <a href="https://github.com/acsasilveira/acsasilveira/edit/main/README.md#-sobre-mim-" style = "decoration: none">
+  <a href="https://github.com/acsasilveira/acsasilveira/blob/main/README.md#-sobre-mim-" style = "decoration: none">
   <img align="center" alt="PT-BR" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1000px-Flag_of_Brazil.svg.png" />
   </a>
-  <a href="https://github.com/acsasilveira/acsasilveira/edit/main/README.md#-about-me-" style = "decoration: none">
+  <a href="https://github.com/acsasilveira/acsasilveira/blob/main/README.md#-about-me-" style = "decoration: none">
   <img align="center" alt="ENG-USA" height="30" width="40" src="https://img.freepik.com/vetores-gratis/fundo-de-bandeira-americana-grunge-design-plano_23-2149403293.jpg" />
   </a>
 
