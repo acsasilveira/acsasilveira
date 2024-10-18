@@ -2,7 +2,19 @@
   <h2> ❤ Acsa Silveira </h2>
 </div>
 
-#
+<h3>IDIOMA DO CURRÍCULO - CURRICULUM LANGUAGE </h3>
+<div style="display: inline_block"><br>
+  <a href="https://github.com/acsasilveira/acsasilveira/edit/main/README.md#-sobre-mim-" style = "decoration: none">
+  <img align="center" alt="PT-BR" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1000px-Flag_of_Brazil.svg.png" />
+  </a>
+  <a href="https://github.com/acsasilveira/acsasilveira/edit/main/README.md#-about-me-" style = "decoration: none">
+  <img align="center" alt="ENG-USA" height="30" width="40" src="https://img.freepik.com/vetores-gratis/fundo-de-bandeira-americana-grunge-design-plano_23-2149403293.jpg" />
+  </a>
+
+</div>
+
+# 
+
 <h2> Sobre mim </h2>
 
 🧁 |  18 anos
@@ -19,29 +31,6 @@
 
 🖥 | Suporte na área de TI para a empresa de Consultoria Jurídica -> <a href="https://cardosofreire.adv.br/"> Cardoso Freire </a>
 
-# 
-
-<div align="left">
-  <h3> 👩🏻‍🎓 OBJETIVOS PROFISSIONAIS:</h3>
-  <h5> O emoji de medalha significa feito! </h5>
-</div>
-
-📲 | Disponibilizar o app Healthy Mind online (Play Store)
-
-😎 | Lançar o sistema para o RU até fevereiro - 🏅
-
-💻 | Entrar no curso de Sistemas de Informação no CEFETMG - 🥉
-
-👷 | Terminar meu TCC do curso técnico em informática com o sistema "Estragou, e agora?" - 🏅
-
-#
-
-<div align="left">
-  <h3> ☎ CONTATOS:</h3>
-</div>
-
-✉  | acsa.silveiras@gmail.com
-
 #
 <h2> About me </h2>
 
@@ -57,29 +46,19 @@
 
 📱 | Developing the mobile app: <a href="https://github.com/stars/acsasilveira/lists/mobile">"Healthy Mind"</a>
 
-🖥 | WOrking on IT Support Area on -> <a href="https://cardosofreire.adv.br/"> Cardoso Freire Consultoria Jurídica </a>
+🖥 | Working on IT Support Area on -> <a href="https://cardosofreire.adv.br/"> Cardoso Freire Consultoria Jurídica </a>
 
 # 
 
 <div align="left">
-  <h3> 👩🏻‍🎓 PROFESSIONAL OBJECTIVES:</h3>
-  <h5> The medal emoji means done! </h5>
+  <h3> ☎ CONTATOS - CONTACTS</h3>
 </div>
 
-📲 | Make the Healthy Mind app available online (Play Store)
+<a href = "mailto:contato@vacsa.silveiras@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/acsa-silveira-b89b852a3/">
+<img loading="lazy" height="30" width="50" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" >
+</a>
 
-😎 | Launch the UR system until february - 🏅
-
-💻 | Enter CEFETMG to graduate the Information Systems course - 🥉
-
-👷 | Finish my IT Technician Course Completion Work with the completion of the System "Estragou, e agora?" - 🏅
-#
-
-<div align="left">
-  <h3> ☎ CONTACTS:</h3>
-</div>
-
-✉  | acsa.silveiras@gmail.com
 
 
 #
@@ -90,13 +69,37 @@
 </div>
 
 <div align="left">
-  <div style="display: inline_block"><br>        
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" />
-    <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
-    <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
-     <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" />
-     <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" />
-    <img align="center" alt="FlutterFlow" height="30" width="40" src="https://styles.redditmedia.com/t5_402prw/styles/communityIcon_jvx6bz9e3zha1.png" />
-  </div>
+  <h3>🤓 FERRAMENTAS/LINGUAGENS QUE DOMINO  - TOOLS/LANGUAGES I WORK WITH</h3>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
+  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" />
+  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" />
+  <a href="https://laravel.com/">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg" />
+  </a>
+  <a href="https://www.flutterflow.io/">
+  <img align="center" alt="FlutterFlow" height="30" width="40" src="https://styles.redditmedia.com/t5_402prw/styles/communityIcon_jvx6bz9e3zha1.png" />
+  </a>
+</div>
+  
+
+
+<div align="left">
+  <h3>📚 FERRAMENTAS/LINGUAGENS QUE ESTOU APRENDENDO  - TOOLS/LANGUAGES I'M LEARNING</h3>
+</div>
+  <div style="display: inline_block"><br>
+    <a href="https://www.typescriptlang.org/" style = "decoration: none">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" />
+    </a>
+    <a href="https://python.org">
+      <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
+    </a>
+    <a href="https://jupyter.org">
+      <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" />
+    </a>
+    <a href="https://moodle.org">
+      <img align="center" alt="Moodle" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/moodle/moodle-original.svg" />
+    </a>
 </div>
