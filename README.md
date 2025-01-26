@@ -17,7 +17,7 @@
 
 <h2> Sobre mim </h2>
 
-🧁 |  18 anos
+🧁 |  19 anos
 
 👩🏻‍🎓 | Graduada no Curso Técnico em Informática (CEFET-MG)
 
@@ -29,12 +29,12 @@
 
 📱 | Desenvolvendo o aplicativo <a href="https://github.com/stars/acsasilveira/lists/mobile">"Healthy Mind"</a>
 
-🖥 | Suporte na área de TI para a empresa de Consultoria Jurídica -> <a href="https://cardosofreire.adv.br/"> Cardoso Freire </a>
+🖥 | Suporte na área de desenvolvimento de software para a empresa de Consultoria Jurídica -> <a href="https://cardosofreire.adv.br/"> Cardoso Freire </a>
 
 #
 <h2> About me </h2>
 
-🧁 |  18 years old
+🧁 |  19 years old
 
 👩🏻‍🎓 | Graduated of the IT Technical Course (CEFET-MG)
 
@@ -46,7 +46,7 @@
 
 📱 | Developing the mobile app: <a href="https://github.com/stars/acsasilveira/lists/mobile">"Healthy Mind"</a>
 
-🖥 | Working on IT Support Area on -> <a href="https://cardosofreire.adv.br/"> Cardoso Freire Consultoria Jurídica </a>
+🖥 | Working on Web Development Support Area on -> <a href="https://cardosofreire.adv.br/"> Cardoso Freire Consultoria Jurídica </a>
 
 # 
 
@@ -72,6 +72,15 @@
   <h3>🤓 FERRAMENTAS/LINGUAGENS QUE DOMINO  - TOOLS/LANGUAGES I WORK WITH</h3>
 </div>
 <div style="display: inline_block"><br>
+  <a href="https://python.org">
+      <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
+    </a>
+    <a href="https://jupyter.org">
+      <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" />
+    </a>
+    <a href="https://moodle.org">
+      <img align="center" alt="Moodle" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/moodle/moodle-original.svg" />
+    </a>
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" />
@@ -92,14 +101,5 @@
   <div style="display: inline_block"><br>
     <a href="https://www.typescriptlang.org/" style = "decoration: none">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" />
-    </a>
-    <a href="https://python.org">
-      <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
-    </a>
-    <a href="https://jupyter.org">
-      <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" />
-    </a>
-    <a href="https://moodle.org">
-      <img align="center" alt="Moodle" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/moodle/moodle-original.svg" />
     </a>
 </div>
