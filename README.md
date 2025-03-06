@@ -55,7 +55,7 @@
 </div>
 
 <a href = "mailto:contato@vacsa.silveiras@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/acsa-silveira-b89b852a3/">
+<a href = "www.linkedin.com/in/acsasilveira">
 <img loading="lazy" height="30" width="50" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" >
 </a>
 
