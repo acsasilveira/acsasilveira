@@ -17,11 +17,11 @@
 
 <h2> Sobre mim </h2>
 
-🧁 |  19 anos
+🧁 |  20 anos
 
-👩🏻‍🎓 | Graduada no Curso Técnico em Informática (CEFET-MG)
+👩🏻‍🎓 | Formada no Curso Técnico em Informática (CEFET-MG)
 
-📚 | Graduanda no Curso de Barachel em Sistemas de Informação (CEFET-MG)
+📚 | Graduanda no Curso de Ciência da Computação (UFV)
 
 👩‍💻 | Participei da Iniciativa: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
 
@@ -31,14 +31,16 @@
 
 🖥 | Suporte na área de desenvolvimento de software para a empresa de Consultoria Jurídica -> <a href="https://cardosofreire.adv.br/"> Cardoso Freire </a>
 
+🚀 | Desenvolvi um sistema para automatização do processo de Conciliação Bancária -> <a href="https://provalia.com.br/"> Provalia </a>
+
 #
 <h2> About me </h2>
 
-🧁 |  19 years old
+🧁 |  20 years old
 
 👩🏻‍🎓 | Graduated of the IT Technical Course (CEFET-MG)
 
-📚 | Graduating in the Barachel Course in Information Systems (CEFET-MG)
+📚 | Graduating in Computer Science (UFV)
 
 👩‍💻 | Participated at the Project: <a href="https://github.com/EstragouEAgora">"Estragou, e agora?"</a>
 
@@ -48,13 +50,15 @@
 
 🖥 | Working on Web Development Support Area on -> <a href="https://cardosofreire.adv.br/"> Cardoso Freire Consultoria Jurídica </a>
 
+🚀 | Developed a system to automate Bank Reconciliation process -> <a href="https://provalia.com.br/"> Provalia </a>
+
 # 
 
 <div align="left">
   <h3> ☎ CONTATOS - CONTACTS</h3>
 </div>
 
-<a href = "mailto:contato@vacsa.silveiras@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@vacsasilveira.ti@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "www.linkedin.com/in/acsasilveira">
 <img loading="lazy" height="30" width="50" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" >
 </a>
